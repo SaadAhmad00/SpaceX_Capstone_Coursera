@@ -14,3 +14,6 @@ This repository contains a slide-ready project structure aligned to the capstone
 - Folium map summary: [`analysis/folium_map_analysis.md`](analysis/folium_map_analysis.md)
 - Plotly Dash summary: [`analysis/plotly_dash_analysis.md`](analysis/plotly_dash_analysis.md)
 - Predictive analysis summary: [`analysis/predictive_analysis.md`](analysis/predictive_analysis.md)
+
+## Claude Export
+- Claude-ready brief: [`claude_ready_brief.md`](claude_ready_brief.md)
